@@ -1,3 +1,4 @@
+
 # User Scripts API
 
 The `chrome.userScripts` API lets extensions run **arbitrary code provided by the user** at
